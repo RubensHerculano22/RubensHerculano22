@@ -2,9 +2,7 @@
 
 ## Bem vindo ao meu perfil GitHub
 
-Sou um programador Web em PHP, e estou aprendendo typescrypt e react para aumentar meu repertório de conhecimento de linguagens.
-
-![kitten-cat](https://user-images.githubusercontent.com/49572567/168616470-f3b6a17a-8422-4d62-90d3-52ec3ba3ba21.gif)
+Sou um programador Web em PHP, e estou aprendendo typescrypt e react para aumentar meu repertório de conhecimento de linguagens. <img src="https://user-images.githubusercontent.com/49572567/168616470-f3b6a17a-8422-4d62-90d3-52ec3ba3ba21.gif" height="200"/>
 
 #### Ferramentas que utilizo no momento
  
@@ -21,7 +19,7 @@ Sou um programador Web em PHP, e estou aprendendo typescrypt e react para aument
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubensHerculano22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
-![Snake animation](https://github.com/RubensHerculano22/RubensHerculano22/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/RubensHerculano22/RubensHerculano22/blob/output/github-contribution-grid-snake.svg)
           
 
 
