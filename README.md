@@ -13,16 +13,15 @@ Sou um programador Web em PHP, e estou aprendendo typescrypt e react para aument
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40"/>
 
-          
-<div>
-<a href="https://github.com/RubensHerculano22">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensHerculano22&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubensHerculano22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-          
+### Jogo da Cobrinha rs
 ![Snake animation](https://github.com/RubensHerculano22/RubensHerculano22/blob/output/github-contribution-grid-snake.svg)
           
-
+<!--
+<div>
+ <a href="https://github.com/RubensHerculano22">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensHerculano22&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RubensHerculano22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **RubensHerculano22/RubensHerculano22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
