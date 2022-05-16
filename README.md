@@ -1,4 +1,4 @@
-# Olá caro Dev 👋, meu nome é Rubens
+# Olá caro Dev👋, meu nome é Rubens
 
 ## Bem vindo ao meu perfil GitHub
 
