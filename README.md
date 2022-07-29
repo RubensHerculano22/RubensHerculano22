@@ -15,7 +15,7 @@ Este repositorio contém alguns projetos que desenvolvi para teste e alguns para
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40"/>
 
-### Jogo da Cobrinha rs
+### Jogo da Cobrinha hehe
 ![Snake animation](https://github.com/RubensHerculano22/RubensHerculano22/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
