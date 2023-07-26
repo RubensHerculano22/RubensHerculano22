@@ -16,6 +16,14 @@ Este repositorio contém alguns projetos que desenvolvi para teste e alguns para
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40"/>
 
+<div align="center">
+  <a href="https://github.com/RubensHerculano22">
+  <img height="180em" 
+    src="https://github-readme-stats-ecru-eight-84.vercel.app/api?username=RubensHerculano22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" 
+    src="https://github-readme-stats-ecru-eight-84.vercel.app/api/top-langs/?username=RubensHerculano22&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true"/>
+</div>
+
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
@@ -23,7 +31,7 @@ Este repositorio contém alguns projetos que desenvolvi para teste e alguns para
  </picture>
   
 
-## ![snake gif](https://github.com/RubensHerculano22/RubensHerculano22/blob/output/github-contribution-grid-snake.svg)  
+<!--## ![snake gif](https://github.com/RubensHerculano22/RubensHerculano22/blob/output/github-contribution-grid-snake.svg)  -->
 
 
 <div align="center">
