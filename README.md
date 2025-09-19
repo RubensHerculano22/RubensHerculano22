@@ -2,8 +2,14 @@
 
 ## Bem vindo ao meu perfil GitHub
 
-Um pouco sobre mim, sou uma pessoa curiosa que adora aprender, das coisas mais simples as coisas mais diferentes.
-Atualmente trabalho como programador Web em PHP, Angular e React, e realizou manunteções em sistemas em C#. E como forma de me aperfeiçoar mais, comecei a estudar mais sobre angular e laravel.
+💻 Atualmente brinco com PHP, React, Angular, C# e .NET Core, desenvolvendo e atualizando sistemas que realmente fazem a diferença.
+🚀 Adoro encarar desafios técnicos, aprender novas tecnologias e transformar ideias em soluções práticas.
+
+🎯 Habilidades que levo comigo: análise de requisitos, prototipagem, manutenção de sistemas, refatoramento de código e integração de sistemas.
+
+🎮 Nos momentos livres, gosto de estudar línguas, ler ficção, jogar alguns games e, ultimamente, me aventurar no crossfit.
+
+Sempre aberto a aprender e colaborar em projetos interessantes!
 <br/><img src="https://user-images.githubusercontent.com/49572567/168616470-f3b6a17a-8422-4d62-90d3-52ec3ba3ba21.gif" height="200"/>
 
 Este repositorio contém alguns projetos que desenvolvi para teste e alguns para portfólio.
